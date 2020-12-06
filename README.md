@@ -20,4 +20,4 @@ This project helps you to automate the electrical appliances with the single tou
 ---> https://www.tecmint.com/test-local-websites-on-internet-using-ngrok/    # about ngrok same commands to windows and linux part from installation
 
 ---> https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/   # port forwarding concept
-
+thats it ....
